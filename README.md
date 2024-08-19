@@ -93,7 +93,7 @@ a. **Vimix:** 1. Download the theme .tar.xz file and extract it.
               
                  Done uwu
 
- b. **Whitesur:** 1. Run `git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git --depth=1` in a terminal.
+ b. **Whitesur:** 1. Run `git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git --depth=1` in a terminal.`
  
                   2. `cd` into the folder.
                   
