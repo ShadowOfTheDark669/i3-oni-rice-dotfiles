@@ -105,6 +105,7 @@ a. **Vimix:**
      *Done uwu*
 
 #### [Download the wallpaper here](https://wall.alphacoders.com/big.php?i=1338168)
+Save the Wallpaper in a folder named `Aesthetic` inside a folder named `Wallpapers` in your home directory for my rice to work out of box (recommended) or else edit my config files according to your need.
                  
 
 ## Rice/Dotfiles Installation:
@@ -115,7 +116,15 @@ a. **Vimix:**
 **Note: You need to know how to configure and setup other aspects of your setup apart from ricing to have a usable system. eg- keybinds , etc.**
 
 #### i3, i3bar, i3status
+
 1. Open the `config-only` in the repository and open the `i3config` folder.
 2. Open the `i3wm_bar` file and copy everything from inside. Paste the copied text at the end of your i3 config file.
-3. Open the `i3status` file and copy everything from inside. Paste the copied text at the end of your i3 status config file.
+3. Open the `i3status` file and copy everything from inside. Paste the copied text in your i3 status config file. (This will replace your config with mine.)
 
+#### rofi,rofi-themes
+
+1. After you have installed the `rofi-themes` theme , copy over my `colors.rasi` file from the `rofi-themes` folder in the `config-only` theme to `~/.config/rofi/launchers/type-1/shared/` and overwrite the default one.
+2. Copy over my `launcher.sh`  file from the same folder in the repository to `~/.config/rofi/launchers/type-1/launcher.sh`and overwrite the default one.
+3. *Done uwu*
+
+### Zsh   
