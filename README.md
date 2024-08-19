@@ -76,30 +76,48 @@ Idk
 #### Installation:
 
 a. **Vimix:** 1. Download the theme .tar.xz file and extract it.
-          2. Open kvantum-manager and click on `select a kvantum theme folder` .
-          3. Browse to the extracted folder and choose the folder named `VimixRuby` .
-          4. Then click on `Install this theme` .
-          5. Once installed, click on the `Change/Delete Theme` menu below.
-          6. Click on the down arrow near the dropdown menu in front of `Select a theme:`
-          7. Choose `VimixRuby` from the dropdown list.
-          8. Click on `Use this theme` below the dropdown arrow. 
-            Done uwu
+
+              2. Open kvantum-manager and click on `select a kvantum theme folder` .
+              
+              3. Browse to the extracted folder and choose the folder named `VimixRuby` .
+              
+              4. Then click on `Install this theme` .
+              
+              5. Once installed, click on the `Change/Delete Theme` menu below.
+              
+              6. Click on the down arrow near the dropdown menu in front of `Select a theme:`
+              
+              7. Choose `VimixRuby` from the dropdown list.
+              
+              8. Click on `Use this theme` below the dropdown arrow.
+              
+                 Done uwu
 
  b. **Whitesur:** 1. Run `git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git --depth=1` in a terminal.
-              2. `cd` into the folder.
-              3. Run `./install.sh -t red` in the terminal.
-              4. Run `./tweaks.sh -F` for connecting this theme to flatpak applications.
-              5. Run `sudo flatpak override --filesystem=xdg-config/gtk-4.0` for flatpak gtk 4.0 applications.
-              6. Open `nwg-look` and select `WhiteSur-Light-red` under the `Widgets` section and click on `Apply`.
-               Done uwu
+ 
+                  2. `cd` into the folder.
+                  
+                  3. Run `./install.sh -t red` in the terminal.
+                  
+                  4. Run `./tweaks.sh -F` for connecting this theme to flatpak applications.
+                  
+                  5. Run `sudo flatpak override --filesystem=xdg-config/gtk-4.0` for flatpak gtk 4.0 applications.
+                  
+                  6. Open `nwg-look` and select `WhiteSur-Light-red` under the `Widgets` section and click on `Apply`.
+                  
+                     Done uwu
 
  c. **Rofi Themes:** Follow the instructions on the github page uwu.
 
  d. **Monoid:** 1. Download the file from the github page and extract it.
+ 
                 2. Run `cd ~/ && mkdir .fonts` in a terminal to make a `.fonts` directory in your home directory if it doesn't exist.
+                
                 3. Move all the `.ttf` files to the .fonts directory.
+                
                 4. Run `sudo fc-cache` in a terminal.
-                 Done uwu
+                
+                   Done uwu
 
 #### [Download the wallpaper here](https://wall.alphacoders.com/big.php?i=1338168)
                  
